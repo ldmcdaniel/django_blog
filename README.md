@@ -1,4 +1,4 @@
-# django_blog
+# django_blog inspired by 'Django By Example'
 
 ## If you don't have virtualenv installed, type:
     pip install virtualenv
